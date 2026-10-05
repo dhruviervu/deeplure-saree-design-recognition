@@ -1,10 +1,8 @@
 outputs/
 __pycache__/
 .ipynb_checkpoints/
-*.jpg
-*.jpeg
-*.png
 *.npz
 *.pt
 *.pth
 build_nb.py
+_patch_nb.py
